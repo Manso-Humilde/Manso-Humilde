@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manso-Humilde&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manso-Humilde&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manso-Humilde&theme=tokyonight"/>
 </p>
 
 ---
