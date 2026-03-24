@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manso-Humilde&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manso-Humilde&theme=tokyonight"/>
 </p>
 
 ---
